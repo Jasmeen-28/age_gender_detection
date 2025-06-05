@@ -12,6 +12,15 @@ The project uses the UTKFace dataset located in:
 - age: 0–100
 - gender: 0 = male, 1 = female
 
+## Requirements 
+- tensorflow==2.19.0
+- opencv-python==4.11.0.86
+- numpy==2.1.3
+- matplotlib==3.10.3
+- scikit-learn==1.6.1
+- pandas==2.2.3
+- seaborn==0.13.2
+- 
 ## 🧠 Model Training
 - 👨‍💻 Requirements
 - Install the required libraries:
