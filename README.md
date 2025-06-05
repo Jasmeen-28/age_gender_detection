@@ -20,7 +20,7 @@ The project uses the UTKFace dataset located in:
 - scikit-learn==1.6.1
 - pandas==2.2.3
 - seaborn==0.13.2
-- 
+
 ## 🧠 Model Training
 - 👨‍💻 Requirements
 - Install the required libraries:
